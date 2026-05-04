@@ -1,0 +1,35 @@
+# Unity cache
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# Build outputs
+*.app
+*.exe
+*.x86_64
+*.apk
+*.aab
+*.ipa
+*_BurstDebugInformation_DoNotShip/
+
+# IDE/generated
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+
+# OS/crash
+.DS_Store
+Thumbs.db
+mono_crash*.json
+sysinfo.txt

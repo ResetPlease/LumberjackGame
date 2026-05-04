@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1217244cb00a429c8085e403242c2cfa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329074
+  packageName: Wooden axe
+  packageVersion: 1.0
+  assetPath: Assets/Feyloom/Wooden_Axe/Renders/URP/Material/M_Wooden_Axe.mat
+  uploadId: 778994
